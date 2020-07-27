@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Triceratops",
+        "translated_name": "Three-Horned Face",
+        "height": "9.5-9.8ft",
+        "weight": "13,000-26,000lbs",
+        "length": "26-30ft",
+        "period": "Late Cretaceous (66-68 million years ago)",
+        "predator": "Tyrannosaurus Rex",
+        "prey": "None",
+        "diet": "Herbavore",
+        "genus": "Ceratopsidae",
+        "image": "https://www.wildrepublic.com/wp-content/uploads/2018/11/Triceratops-xl-600x404.jpg",
+        "location": "North America"
+    },
+    {
+        "id": 2,
+        "name": "Stegosaurus",
+        "translated_name": "Roof Lizard",
+        "height": "9ft",
+        "weight": "6,800lbs",
+        "length": "21-30ft",
+        "period": "Late Jurrasic (163-100 million years ago)",
+        "predator": "Allosaurus",
+        "prey": "None",
+        "diet": "Herbavore",
+        "genus": "Stegosauridae",
+        "image": "https://cdn.mos.cms.futurecdn.net/owYTb9X5fKpeBhgiaxD73b-1200-80.jpg",
+        "location": "North America"
+    },
+    {
+        "id": 3,
+        "name": "Spinosaurus",
+        "translated_name": "Spine Lizard",
+        "height": "14-23ft",
+        "weight": "14,000-17,000lbs",
+        "length": "49-51ft",
+        "period": "Cretaceous (112-93 million years ago)",
+        "predator": "Carcharodontosaurus",
+        "prey": "Coelacanths",
+        "diet": "Carnivore",
+        "genus": "Spinosauridae",
+        "image": "https://thumbs-prod.si-cdn.com/rxYXkhpaOf34I_XpBF_O9V4Ku0A=/fit-in/1600x0/https://public-media.si-cdn.com/filer/c7/1f/c71f9f48-0b40-4883-b0bf-b981e5e5443e/istock-146818770.jpg",
+        "location": "Africa"
+    },
+    {
+        "id": 4,
+        "name": "Quetzalcoatlus",
+        "translated_name": "Quetzalcoatl (Aztec feathered serpent god)",
+        "height": "16ft",
+        "weight": "550lbs",
+        "length": "23-43ft (Wingspan)",
+        "period": "Late Cretaceous (66-68 million years ago)",
+        "predator": "None",
+        "prey": "Juvenile Lizards",
+        "diet": "Carnivore",
+        "genus": "Azhdarchidae",
+        "image": "https://vignette.wikia.nocookie.net/dinosaurs/images/5/58/QuetzalcoatlusReal.jpg/revision/latest?cb=20180411192342",
+        "location": "North America"
+    }
+]
