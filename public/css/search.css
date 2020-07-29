@@ -8,11 +8,11 @@ body{
 .logo{
     width: 200px;
     height: 100px;
-    margin-left: 70px;
+    margin-right: 70px;
 }
-#searchicon{
+#arrowicon{
     font-size: 30px;
     line-height: 90px;
-    float: right;
-    margin-right: 40px;
+    float: left;
+    margin-left: 40px;
 }
