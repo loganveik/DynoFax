@@ -15,4 +15,8 @@ body{
     line-height: 90px;
     float: right;
     margin-right: 40px;
+    color: rgb(255, 255, 125);
+    -webkit-text-stroke-width: 1px; 
+    -webkit-text-stroke-color: white;
+    text-shadow: black 2px 2px 1px;
 }
